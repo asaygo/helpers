@@ -1,0 +1,16 @@
+1. Given the array below, show the position of all Ford cars in the array and count how many are in the array.
+ var cars = ["BMW", "Volvo", "Saab", "Ford", "X3", "X5", "Fiat", "Ford", "Lamborghini", "Dacia", "Renault", "Megane", "Rolls", "Royce", "Ford", "Ford", "Daihatsu", "Lastun", "Ford", "Ford", "Ford", "X7", "VW", "Ford", "BMW", "Volvo", "Saab", "Ford", "Ford", "MJ10", "Ford", "Jetta"];
+
+2. What is the largest factor of a user given number ?
+ user number = 24 , largest factor = 12
+ 
+3. Create an empty diamond of stars (user supplies the height)
+    *
+   * *
+  *   *
+   * *
+    *
+
+4. Create a function to calculate the sum of the digits of a number (user supplies the number). The number is received as a parameter.
+  user number = 245  sum of digits = 11 (2+4+5)
+  
