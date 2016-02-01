@@ -1,0 +1,14 @@
+Challenge:
+
+Given the file named "urls.txt" that contains a list of URLs, you need to parse the file, extract and display all the domains.
+For example:
+  URL: http://www.microsoft.com/download/en/skype.exe
+  Domain: www.microsoft.com
+
+This will be accomplished using nodejs. Your js program will be saved to a file called parser.js.
+You will run the program using the following command:
+  nodejs parser.js
+
+Details on how to read a file using nodejs:
+  https://docs.nodejitsu.com/articles/file-system/how-to-read-files-in-nodejs
+
