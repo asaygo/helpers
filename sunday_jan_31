@@ -11,4 +11,9 @@ You will run the program using the following command:
 
 Details on how to read a file using nodejs:
   https://docs.nodejitsu.com/articles/file-system/how-to-read-files-in-nodejs
+  
+Details on how to use regex:
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match
+
+
 
